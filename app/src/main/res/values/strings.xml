@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Your Music App</string>
+    <!-- Category name for phrases [CHAR LIMIT=20] -->
+    <string name="category_Songs">Artists</string>
+    <!-- Category name for the vocabulary titles for colors [CHAR LIMIT=20] -->
+    <string name="category_Podcasts">Podcasts</string>
+    <!-- Category name for the vocabulary titles for numbers [CHAR LIMIT=20] -->
+    <string name="title_activity_songs">Frequently Played Songs</string>
+    <string name="title_activity_podcasts">Podcasts</string>
+    <string name="title_activity_nowplaying">Podcasts</string>
+
+</resources>

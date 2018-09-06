@@ -1,1 +1,1 @@
-# MusicalApp
+# MusicalStructureApp

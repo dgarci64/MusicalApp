@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainActivity"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/tan_background"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/Podcasts"
+        style="@style/CategoryStyle"
+        android:background="@color/category_family"
+        android:text="@string/category_Podcasts" />
+
+    <TextView
+        android:id="@+id/Songs"
+        style="@style/CategoryStyle"
+        android:background="@color/category_colors"
+        android:text="@string/category_Songs" />
+
+</LinearLayout>
